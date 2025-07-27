@@ -2,8 +2,6 @@
 
 📣 Stay tuned for significant updates to both the slides and repository.!!!
 
-📣 In the meantime, [Join our Discord](https://discord.gg/SKgkVT8BGJ)
-
 [ML Visuals](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing) is a new collaborative effort to help the machine learning community in improving science communication by providing free professional, compelling and adequate visuals and figures. Currently, we have over 100 figures (all open community contributions). You are free to use the visuals in your machine learning presentations or blog posts. You don’t need to ask permission to use any of the visuals but it will be nice if you can provide credit to the designer/author (author information found in the slide notes). Check out the versions of the visuals below. 
 
 This is a project made by the [dair.ai](https://dair.ai/) community. The latest version of the Google slides can be found in this GitHub repository. Our community members will continue to add more common figures and basic elements in upcoming versions. Think of this as free and open artifacts and templates which you can freely and easily download, copy, distribute, reuse and customize to your own needs.
@@ -24,11 +22,7 @@ Feel free to reach out to me on [Twitter](https://twitter.com/omarsar0) for an i
 - [Version 1.0](https://docs.google.com/presentation/d/11mR1nkIR9fbHegFkcFq8z9oDQ5sjv8E3JJp1LfLGKuk/edit?usp=sharing)
 
 
-## How to Contribute?
-- You can check out our [Project page](https://github.com/orgs/dair-ai/projects/8) to see all the ongoing tasks or issues related to this research project. Lookout for the main `ml_visuals` tag. Issues with the `good first issue` tag are good tasks to get started with.
-- You can also just check the [issues tab](https://github.com/dair-ai/ml-visuals/issues).
-- You can ask anything related to this project in our Slack group
-- Slack channel: #ml_visuals
+
 
 **Some ideas for figures to add to the Slides** ([issue](https://github.com/dair-ai/ml-visuals/issues/14))
 
